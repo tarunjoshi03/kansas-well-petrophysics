@@ -42,7 +42,7 @@ Built a multi-track log display using matplotlib with:
 ![Roger 10-4 Formation Evaluation](roger10_4_formation_evaluation.png)
 
 ## Data Source
-Kansas Geological Survey (KGS) — Public Domain  
+Kansas Geological Survey (KGS) - Public Domain  
 Well: Roger 10-4 | API: 15-051-25836 | Ellis County, Kansas  
 https://www.kgs.ku.edu/Magellan/Logs/
 
